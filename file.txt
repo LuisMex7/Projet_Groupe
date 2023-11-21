@@ -1,3 +1,7 @@
 Modif
 Otra modificacion
+<<<<<<< HEAD
 Course
+=======
+Carrera
+>>>>>>> 9012b810b168f9f488da79657e75127591dafff9
